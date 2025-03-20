@@ -35,7 +35,7 @@
                 &trans &trans &trans &trans &trans &trans &trans            &trans   &trans   &trans   &trans    &trans    &trans &trans 
                 &trans &trans &trans     &trans    &trans &trans            &trans                               &trans    &trans &trans
             >;
-        }
+        };
 
         fn2 {
             bindings = <
@@ -45,7 +45,7 @@
                 &trans &trans &trans &kp LC(LG(LEFT)) &kp LC(LG(UP)) &kp LC(LG(DOWN)) &LC(LG(RIGHT))           &trans &trans &trans &trans &trans &trans &trans 
                 &trans &trans &trans          &trans                 &trans           &trans                   &trans                      &trans &trans &trans
             >;
-        }
+        };
 
         fn3 {
             bindings = <
@@ -55,7 +55,7 @@
                 &trans &trans &trans &trans &trans &trans &trans            &trans &trans &trans &trans &trans &trans &trans 
                 &trans &trans &trans     &trans    &trans &trans            &trans                      &trans &trans &trans
             >;
-        }
+        };
 
         mouse {
             bindings = <
@@ -65,7 +65,7 @@
                 &trans &trans &trans &trans &trans &trans &trans            &trans &trans   &trans   &trans &trans &trans &trans 
                 &trans &trans &trans     &trans    &trans &trans            &trans                          &trans &trans &trans
             >;
-        }
+        };
 
         scroll {
             bindings = <
@@ -75,7 +75,7 @@
                 &trans &trans &trans &trans &trans &trans &trans            &trans &trans &trans &trans &trans &trans &trans 
                 &trans &trans &trans     &trans    &trans &trans            &trans                      &trans &trans &trans
             >;
-        }
+        };
 
         fn6 {
             bindings = <
@@ -85,6 +85,6 @@
                 &studio_unlock &trans         &trans       &trans       &trans       &trans       &trans            &trans &trans &trans &trans &trans &trans &trans 
                 &bt BT_CLR     &bt BT_CLR_ALL &trans             &trans              &trans       &trans            &trans                      &trans &trans &trans
             >;
-        }
+        };
     };
  };
