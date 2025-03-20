@@ -1,0 +1,14 @@
+file_format: "1"
+id: symphonie6
+name: Symphonie Nr.6
+type: shield
+url: https://github.com/KOHSUK/zmk-config-sym6/
+requires: [seeeduino_xiao_ble]
+features:
+  - keys
+  - encoder
+  - studio
+  - pointer
+siblings:
+  - symphonie6_right
+  - symphonie6_left
