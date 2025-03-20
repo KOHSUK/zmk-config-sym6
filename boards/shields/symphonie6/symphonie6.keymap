@@ -42,7 +42,7 @@
                        &trans &trans &trans           &trans         &trans           &trans                   &trans &trans &trans &trans &trans &trans
                 &trans &trans &trans &trans           &trans         &trans           &trans                   &trans &trans &trans &trans &trans &trans &trans
                 &trans &trans &trans &kp LC(LEFT)     &kp LC(UP)     &kp LC(DOWN)     &kp LC(RIGHT)            &trans &trans &trans &trans &trans &trans &trans
-                &trans &trans &trans &kp LC(LG(LEFT)) &kp LC(LG(UP)) &kp LC(LG(DOWN)) &LC(LG(RIGHT))           &trans &trans &trans &trans &trans &trans &trans 
+                &trans &trans &trans &kp LC(LG(LEFT)) &kp LC(LG(UP)) &kp LC(LG(DOWN)) &kp LC(LG(RIGHT))        &trans &trans &trans &trans &trans &trans &trans 
                 &trans &trans &trans          &trans                 &trans           &trans                   &trans                      &trans &trans &trans
             >;
         };
