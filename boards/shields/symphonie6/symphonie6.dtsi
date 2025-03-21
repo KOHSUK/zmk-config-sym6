@@ -114,3 +114,5 @@
         triggers-per-rotation = <10>;
     };
 };
+
+&xiao_serial { status = "disabled"; };
