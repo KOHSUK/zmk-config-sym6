@@ -7,7 +7,6 @@ requires: [seeeduino_xiao_ble]
 features:
   - keys
   - encoder
-  - studio
   - pointer
 siblings:
   - symphonie6_right
