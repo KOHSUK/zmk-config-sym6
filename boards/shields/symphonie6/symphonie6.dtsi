@@ -85,6 +85,9 @@
         compatible = "zmk,kscan-gpio-charlieplex";
         wakeup-source;
         interrupt-gpios = <&xiao_d 1 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>;
+        debounce-press-ms = 15
+        debounce-release-ms = 15
+        poll-period-ms = 5
     };
 
     default_transform: keymap_transform0 {
