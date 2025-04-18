@@ -1,0 +1,6 @@
+.DS_Store
+*.zip
+fp-info-cache
+pcb/assemble_*/**/*-backups
+pcb/assemble_*/*.kicad_prl
+*.gbr

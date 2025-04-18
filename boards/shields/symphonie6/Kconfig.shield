@@ -1,0 +1,5 @@
+config SHIELD_SYMPHONIE6_LEFT
+    def_bool $(shields_list_contains,symphonie6_left)
+
+config SHIELD_SYMPHONIE6_RIGHT
+    def_bool $(shields_list_contains,symphonie6_right)
