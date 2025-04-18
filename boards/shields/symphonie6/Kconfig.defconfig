@@ -1,8 +1,11 @@
-if SHIELD_SYMPHONIE6_LEFT
+if SHIELD_SYMPHONIE6_RIGHT
 
 # Name must be less than 16 characters long!
 config ZMK_KEYBOARD_NAME
     default "Symphonie Nr.6"
+
+config ZMK_SPLIT
+    default y
 
 config ZMK_SPLIT_ROLE_CENTRAL
     default y
