@@ -445,7 +445,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "symphonie6_left.kicad_pro",
+    "filename": "symphonie6_right.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -480,9 +480,9 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "../gerber/v0.0.2/symphonie6_left/",
+      "plot": "./",
       "pos_files": "",
-      "specctra_dsn": "symphonie6_left.dsn",
+      "specctra_dsn": "symphonie6_right.dsn",
       "step": "keybaord.step",
       "svg": "",
       "vrml": ""
@@ -565,7 +565,7 @@
       "group_symbols": true,
       "name": "",
       "sort_asc": true,
-      "sort_field": "Reference"
+      "sort_field": "Footprint"
     },
     "connection_grid_size": 50.0,
     "drawing": {

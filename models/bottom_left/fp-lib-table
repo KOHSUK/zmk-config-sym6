@@ -1,6 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "KiCad_Rotary_Encoder")(type "KiCad")(uri "/Users/kosuke/Documents/KiCad/8.0/lib/kicad-github/kicad-footprints/Rotary_Encoder.pretty")(options "")(descr ""))
-  (lib (name "sym6_roba")(type "KiCad")(uri "/Users/kosuke/Documents/Projects/zmk-config-sym6/pcb/footprints/roBa_footprints")(options "")(descr ""))
-  (lib (name "sym6_salicyl")(type "KiCad")(uri "/Users/kosuke/Documents/Projects/zmk-config-sym6/pcb/footprints/Salicylic_acid3_footprints")(options "")(descr ""))
-)
